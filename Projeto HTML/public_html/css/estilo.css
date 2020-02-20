@@ -1,0 +1,46 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 11/02/2020, 21:17:30
+    Author     : aluno
+*/
+
+/* Formatar a cor da tag h1 que estava fora da div */
+h1{
+    color: red;
+}
+/* Formatar a cor da tag h1 que estava fora da div "id" Menu-site*/
+#menu-site h1{
+    
+    color: purple;
+    
+}
+/* Formatar a cor da tag h1 que estava fora da div "id" Menu-site*/
+#menu-site a{
+    
+    color: orange;
+    
+}
+/* Formatar a cor da tag h1 que estava fora da div "id" Menu-site*/
+#contudo-site h1{
+    
+    color: blue;
+    
+}
+/* Formatar a cor da Classe caixa*/
+.caixa {
+    
+    width: 200px;
+    height:200px;
+    margin: 50px;
+    background: green;
+    float: left;
+    
+}
+.caixa b{
+    font-size: 20px;
+    color:white;
+}
